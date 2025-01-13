@@ -1,3 +1,5 @@
+package AssignmentPrograms;
+
 import java.util.Scanner;
 
 public class TemperatureClassification {
