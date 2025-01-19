@@ -1,6 +1,6 @@
 package Oops;
 
-//Encapsulation in Java is a fundamental principle of object-oriented programming (OOP) that hides data and methods within a class.
+//a class to hide implementation details and expose only
 
 public class Encapsulation {
     class Programmer {

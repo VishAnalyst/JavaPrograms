@@ -1,4 +1,4 @@
-package Encoding;
+package EncodingInterviewPrograms;
 
 import java.util.Scanner;
 
