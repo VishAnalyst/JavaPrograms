@@ -9,11 +9,11 @@ public class positiveNegativeNumber {
         String negative = "NEGATIVE NUMBER";
         String zero = "Number is ZERO";
 
-        if (num>=0) {
+        if (num>0) {
             System.out.println(positive);
-        }else if(num<=0){
+        }else if(num<0){
             System.out.println(negative);
-        }else if (num==0) {
+        }else  {
             System.out.println(zero);
         }
     }

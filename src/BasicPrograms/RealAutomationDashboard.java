@@ -5,9 +5,9 @@ public class RealAutomationDashboard {
         String ExpectedTitle = "Dashboard";
         String ActualTitle = "Dashboard";
 
-        if (ExpectedTitle == ActualTitle) {
+        if (ExpectedTitle.equals(ActualTitle)) {
             System.out.println("TITLE MATCHES");
-        }else{
+        } else {
             System.out.println("Title did not Match");
         }
     }
